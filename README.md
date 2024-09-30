@@ -33,14 +33,6 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-
-GIF created with ...  
-
-
-## Notes
-
-Describe any challenges encountered while building the app.
+https://github.com/user-attachments/assets/6f650e4e-9755-4d5f-911c-f7b8da6428c3
 
 ## License
