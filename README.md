@@ -1,7 +1,7 @@
 # Wordle-1
-# Android Project 1 - *Name of App Here*
+# Android Project 1 - *Wordle*
 
-Submitted by: **Your Name Here**
+Submitted by: **Sumit Katuwal**
 
 **WordleP** is an android app that recreates a simple version of the popular word game [Wordle](https://www.nytimes.com/games/wordle/index.html). 
 
@@ -25,14 +25,11 @@ The following **optional** features are implemented:
 - [ ] User will get an error message if they input an invalid guess
 - [ ] User can see a 'streak' record of how many words they've guessed correctly.
 
-The following **additional** features are implemented:
-
-* [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-https://github.com/user-attachments/assets/6f650e4e-9755-4d5f-911c-f7b8da6428c3
 
-## License
+
+
